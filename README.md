@@ -4,6 +4,8 @@
 <!-- Banner -->
 <img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="50%" height="50%" />
 
+<h3 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
+
 
 ## 📊 GitHub Stats
 
@@ -13,9 +15,6 @@
 
 ---
 
-<h3 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
-
----
 
 ## 🤓 About Me
 
