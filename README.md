@@ -4,17 +4,13 @@
 <!-- Banner -->
 <img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="50%" height="50%" />
 
-<h3 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
-
-
-## 📊 GitHub Stats
+<h3 align="">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
 </p>
 
 ---
-
 
 ## 🤓 About Me
 
