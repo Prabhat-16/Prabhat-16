@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey, I'm Prabhat Mishra</h2>
+<h2 align="">👋 Hey, I'm Prabhat Mishra</h2>
 
 ---
 <!-- Banner -->
