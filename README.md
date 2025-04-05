@@ -1,13 +1,24 @@
-<!-- Banner -->
-<img src="assets/banner.png" alt="Prabhat Mishra Banner" width="100%" height="50%" />
+## 📊 GitHub Stats
 
-<h2 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrabhatMishra1607&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatMishra1607&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhatMishra1607&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+<h2 align="center">👋 Hey, I'm Prabhat Mishra</h2>
+<h3 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
 ---
 
 ## 🤓 About Me
 
-Hi there! I'm **Prabhat Mishra**, currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**.  
+Currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**.  
 I enjoy building full-stack applications, particularly the backend side using **PHP + MySQL**, and I'm always up for exploring new tech in the DevOps space.
 
 Outside of development, I’m enthusiastic about solving real-world problems through tech and enjoy fine-tuning my skills with personal projects and learning new tools. 🛠️
@@ -37,9 +48,10 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 ### ⚙️ DevOps Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" title="GitHub Actions" />
 </p>
 
 ### 🖥️ Platforms
@@ -60,6 +72,7 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 - 🌐 [Portfolio](https://prabhatmishra1607.netlify.app/)
 - 📧 [mprabhat1607@gmail.com](mailto:mprabhat1607@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prabhat-mishra-191768260)
+- 📱 +91 79906 76099
 
 ---
 
