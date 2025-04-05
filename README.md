@@ -1,11 +1,7 @@
 <!-- Banner -->
 <img src="assets/banner.png" alt="Prabhat Mishra Banner" width="100%" />
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-Mishra&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-Mishra&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<h2 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h2>
 
 ---
 
@@ -23,7 +19,6 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 ## 🧰 My Tech Toolbox
 
 ### 🖥️ Programming & Markup Languages
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
@@ -34,19 +29,28 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 </p>
 
 ### 🧱 Frameworks & Libraries
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
 </p>
 
-### ⚙️ Tools & Platforms
-
+### 🛠️ Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+</p>
+
+### 🖥️ Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+</p>
+
+### 🧑‍💻 IDE
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
 ---
