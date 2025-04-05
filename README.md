@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="assets/banner.png" alt="Prabhat Mishra Banner" width="100%" />
+<img src="assets/banner.png" alt="Prabhat Mishra Banner" width="50%" />
 
 <h2 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h2>
 
