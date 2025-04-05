@@ -8,12 +8,12 @@ I love working on backend systems, building cool projects, and teaching others.
 - 🚀 Currently exploring DeepSeek + Azure Integration
 
 ### 📊 GitHub Stats
-![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?prabhat-16=prabhatmishra&show_icons=true&theme=radical)
+![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=radical)
 
 ### 📫 How to reach me:
-- Email: yourmail@example.com
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: mprabhat1607@gmail.com
+- LinkedIn: (https://linkedin.com/in/prabhat-web-developer/)
+- Portfolio:(https://prabhatmishra1607.netlify.app/)
 
 ---
 
