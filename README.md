@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="assets/1.jpg" alt="Prabhat Mishra Banner" width="100%" />
+
 ## 📊 GitHub Stats
 
 <p align="center">
