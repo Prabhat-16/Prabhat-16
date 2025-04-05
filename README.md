@@ -1,12 +1,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrabhatMishra1607&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhatMishra1607&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhatMishra1607&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-16&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
