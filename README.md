@@ -67,7 +67,6 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 - 🌐 [Portfolio](https://prabhatmishra1607.netlify.app/)
 - 📧 [mprabhat1607@gmail.com](mailto:mprabhat1607@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prabhat-mishra-191768260)
-- 📱 +91 79906 76099
 
 ---
 
