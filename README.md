@@ -5,10 +5,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-16&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
 ---
 
 <h2 align="center">👋 Hey, I'm Prabhat Mishra</h2>
