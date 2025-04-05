@@ -34,12 +34,13 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
 </p>
 
-### 🛠️ Tools
+### ⚙️ DevOps Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Actions" />
 </p>
 
 ### 🖥️ Platforms
@@ -52,35 +53,6 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
-
----
-
-## 🚀 Projects
-
-### 🧾 Web Billing System  
-Built a full-stack billing application using PHP, JavaScript, and Bootstrap.  
-Includes invoice generation, secure login, payment tracking, and report module.
-
-### 🏗️ Construction Project Management System  
-A PHP & MySQL-based tool for construction workflow tracking and team communication.
-
-### 🎬 Movie Ticket Booking System  
-Responsive ticket booking system for cinema management with an admin dashboard.
-
----
-
-## 📚 Currently Learning
-
-- CI/CD with Jenkins & Docker 🐳  
-- Azure App Services & Cloud Architecture ☁️  
-- Automated Testing & System Design 🧠  
-
----
-
-## 🎓 Education
-
-- 🎓 **MCA Science** – MIT World Peace University, Pune *(2024 – Present)*  
-- 🎓 **BCA** – Bhagwan Mahavir University, Surat *(2021 – 2024)*  
 
 ---
 
