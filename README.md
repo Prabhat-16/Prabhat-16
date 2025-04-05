@@ -2,7 +2,7 @@
 
 ---
 <!-- Banner -->
-<img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" style="max-height: 100px; object-fit: cover;" />
+<img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" style="max-height: 50px; object-fit: cover;" />
 
 <h3 align="">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
