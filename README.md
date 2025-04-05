@@ -6,7 +6,7 @@
 
 <h3 align="">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
 </p>
 
