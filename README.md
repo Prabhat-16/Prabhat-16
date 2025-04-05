@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="assets/1.jpg" alt="Prabhat Mishra Banner" width="100%" height="50%" />
+<img src="assets/1.jpg" alt="Prabhat Mishra Banner" width="50%" height="50%" />
 
 
 ## 📊 GitHub Stats
