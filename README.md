@@ -13,10 +13,11 @@
 
 ## 🤓 About Me
 
-Currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**.  
-I enjoy building full-stack applications, particularly the backend side using **PHP + MySQL**, and I'm always up for exploring new tech in the DevOps space.
+I’m currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**.
 
-Outside of development, I’m enthusiastic about solving real-world problems through tech and enjoy fine-tuning my skills with personal projects and learning new tools. 🛠️
+As a passionate **Full Stack Developer**, I love crafting dynamic web applications — with a strong focus on **backend development using PHP + MySQL**. I also enjoy exploring the ever-evolving world of **DevOps and Cloud Technologies**.
+
+From personal projects to hands-on learning, I’m constantly sharpening my skills and staying curious.
 
 When I'm not coding, you’ll probably find me learning DevOps pipelines or working on cloud deployments ☁️💻
 
