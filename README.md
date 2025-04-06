@@ -1,7 +1,7 @@
 <h2 align="">👋 Hey, I'm Prabhat Mishra</h2>
 
 <!-- Banner -->
-<img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" style="max-height: 2px; object-fit: cover;" />
+<img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" style="max-height: 2%; object-fit: cover;" />
 
 <h3 align="">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
@@ -67,8 +67,6 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 - 🌐 [Portfolio](https://prabhatmishra1607.netlify.app/)
 - 📧 [mprabhat1607@gmail.com](mailto:mprabhat1607@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prabhat-mishra-191768260)
-- 📱 +91 79906 76099
 
----
 
 > *“Technology is best when it brings people together.” – Matt Mullenweg*
