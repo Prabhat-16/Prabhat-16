@@ -75,4 +75,4 @@ When I'm not coding, you’ll probably find me learning DevOps pipelines or work
 
 ---
 
-> *“Technology is best when it brings people together.” – Matt Mullenweg*
+> *“Talk is Cheap Show me the Code.” – Linus Torvalds*
