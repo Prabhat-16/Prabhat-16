@@ -1,7 +1,7 @@
 <h2 align="">👋 Hey, I'm Prabhat Mishra</h2>
 
 <!-- Banner -->
-<img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" height="350px" />
+<img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" height="400px" />
 
 <h3 align="">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
