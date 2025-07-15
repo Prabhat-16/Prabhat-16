@@ -1,29 +1,35 @@
-<h2 align="center">👋 Hey, I'm Prabhat Mishra</h2>
-
 <!-- Banner -->
 <p align="center">
   <img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="95%" />
+    </td>
+    <td width="50%" valign="top">
+      <h2>👋 Hey, I'm Prabhat Mishra</h2>
+      <h3>💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
-</p>
+      <br/>
+
+      I’m currently pursuing my <strong>Master's in Computer Applications</strong> at <strong>MIT WPU, Pune</strong>.
+
+      As a passionate <strong>Full Stack Developer</strong>, I love crafting dynamic web applications — with a strong focus on <strong>backend development using PHP + MySQL</strong>. I also enjoy exploring the ever-evolving world of <strong>DevOps and Cloud Technologies</strong>.
+
+      From personal projects to hands-on learning, I’m constantly sharpening my skills and staying curious.
+
+      When I'm not coding, you’ll probably find me learning DevOps pipelines or working on cloud deployments ☁️💻
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 👨‍💻 About Me
+## 🧰 Tech Toolbox
 
-🎓 Currently pursuing **Master's in Computer Applications** at **MIT WPU, Pune**.
-
-💡 Passionate about building **dynamic full-stack apps** (with PHP & MySQL) and learning **DevOps & Cloud tools**.
-
-☁️ I love deploying projects, setting up CI/CD, and working on scalable systems.
-
----
-
-## 💻 Languages & Frameworks
+### 💻 Languages & Frameworks
 
 <table>
   <tr>
@@ -38,7 +44,7 @@
 
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <table>
   <tr>
@@ -52,7 +58,7 @@
 
 ---
 
-## 🛠️ Development Tools
+### 🛠️ Development Tools
 
 <table>
   <tr>
@@ -66,7 +72,7 @@
 
 ---
 
-## 🧩 Platforms
+### 🧩 Platforms
 
 <table>
   <tr>
