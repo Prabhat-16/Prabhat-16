@@ -1,30 +1,27 @@
-<h1 align="center">👋 Hey, I'm Prabhat Mishra</h1>
-<h3 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
+<h2 align="center">👋 Hey, I'm Prabhat Mishra</h2>
 
 <!-- Banner -->
 <p align="center">
   <img src="assets/robot.jpg" alt="Prabhat Mishra Banner" width="100%" />
 </p>
 
-<table width="100%">
-  <tr>
-    <!-- GitHub Stats -->
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub Stats" width="90%" />
-    </td>
+<h3 align="center">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
-    <!-- About Me -->
-    <td width="50%" valign="top">
-      <h2>🧑‍💻 About Me</h2>
-      <p>
-        I’m currently pursuing my <strong>Master's in Computer Applications</strong> at <strong>MIT WPU, Pune</strong>.<br><br>
-        As a passionate <strong>Full Stack Developer</strong>, I love crafting dynamic web applications — with a strong focus on <strong>backend development using PHP + MySQL</strong>. I also enjoy exploring the ever-evolving world of <strong>DevOps and Cloud Technologies</strong>.<br><br>
-        From personal projects to hands-on learning, I’m constantly sharpening my skills and staying curious.<br><br>
-        When I'm not coding, you’ll probably find me learning DevOps pipelines or working on cloud deployments ☁️💻
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 I'm currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**.
+
+💡 Passionate **Full Stack Developer** with a strong foundation in **PHP + MySQL** and always exploring the exciting world of **DevOps & Cloud Technologies**.
+
+🛠️ I build real-world apps and enjoy sharpening my skills through hands-on projects and continuous learning.
+
+☁️ When I'm not coding, I’m probably experimenting with **cloud deployments**, setting up **CI/CD pipelines**, or diving deep into **Linux tools**.
 
 ---
 
