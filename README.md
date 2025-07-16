@@ -11,8 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 🎓 I'm currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**.
@@ -23,70 +21,32 @@
 
 ☁️ When I'm not coding, I’m probably experimenting with **cloud deployments**, setting up **CI/CD pipelines**, or diving deep into **Linux tools**.
 
----
-
 ## 🧰 Tech Toolbox
 
 ### 💻 Languages & Frameworks
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/><br><b>PHP</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/><br><b>MySQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/><br><b>JavaScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/><br><b>React</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/><br><b>HTML5</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/><br><b>CSS3</b></td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,react,html,css" />
+</p>
 
 ### ☁️ Cloud & DevOps
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/><br><b>GIT</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30"/><br><b>GitHub Actions</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/><br><b>Docker</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/><br><b>Azure</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/><br><b>AWS</b></td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,aws" />
+</p>
 
 ### 🛠️ Development Tools
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/><br><b>VS Code</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/><br><b>Postman</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="30"/><br><b>Netlify</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"/><br><b>XAMPP</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/><br><b>GitHub</b></td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,netlify,apache" />
+</p>
 
 ### 🧩 Platforms
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30"/><br><b>Windows</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/><br><b>Linux</b></td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
 
 ## 📫 Connect with Me
 
 - 🌐 [Portfolio](https://prabhatmishra1607.netlify.app/)
 - 📧 [mprabhat1607@gmail.com](mailto:mprabhat1607@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prabhat-mishra-191768260)
-
----
 
 > *“Talk is Cheap. Show me the Code.” – Linus Torvalds*
