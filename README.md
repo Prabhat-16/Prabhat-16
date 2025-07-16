@@ -24,22 +24,22 @@
 ## 🧰 Tech Toolbox
 
 ### 💻 Languages & Frameworks
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,mysql,js,react,html,css" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,azure,aws" />
 </p>
 
 ### 🛠️ Development Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,postman,netlify,apache" />
 </p>
 
 ### 🧩 Platforms
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
