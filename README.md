@@ -1,6 +1,5 @@
 <h2 align="left">👋 Hey, I'm Prabhat Mishra</h2>
 
-<!-- Banner -->
 <p align="center">
   <img src="assets/Robot-3.gif" alt="Prabhat Mishra Banner" width="100%" />
 </p>
