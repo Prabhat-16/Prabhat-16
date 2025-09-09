@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hey, I'm Prabhat Mishra</h2>
 
 <p align="center">
-  <img src="https://github.com/Prabhat-16/Prabhat-16/raw/main/assets/Robot-3.gif" alt="Prabhat Mishra Banner" width="100%" />
+  <img src="assets/Robot-3.gif" alt="Prabhat Mishra Banner" width="100%" />
 </p>
 
 <h3 align="left">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
