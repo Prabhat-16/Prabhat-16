@@ -6,9 +6,20 @@
 
 <h3 align="left">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub stats" width="48%" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-16&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github-compact&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ## 👨‍💻 About Me
 
