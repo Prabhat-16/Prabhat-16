@@ -4,7 +4,9 @@
   <img src="assets/Robot.gif" alt="Prabhat Mishra Banner" width="100%" />
 </p>
 
-<h3 align="left">💻 Full Stack Developer & DevOps Enthusiast 🚀</h3>
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</h3>
 
 ## 📊 GitHub Analytics
 
@@ -14,9 +16,9 @@
 -->
 </div>
 
-<h3 align="center">🏆 Attributes & Achievements</h3>
+<h3 align="center">😄 Random Dev Joke</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhat-16&theme=dark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Prabhat-16 Trophies" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Jokes Card" />
 </div>
 
 <div align="center">
