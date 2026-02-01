@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 </h3>
 
 ## 📊 GitHub Analytics
