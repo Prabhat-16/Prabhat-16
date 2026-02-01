@@ -10,19 +10,20 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Service currently 503 Unavailable
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-16&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-16&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github-compact&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <h3 align="center">😄 Random Dev Joke</h3>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Jokes Card" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github-compact&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 👨‍💻 About Me
