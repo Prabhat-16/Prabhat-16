@@ -11,8 +11,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-16&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br />
