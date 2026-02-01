@@ -11,7 +11,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
