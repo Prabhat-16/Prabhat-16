@@ -14,11 +14,10 @@
 -->
 </div>
 
-<!-- Service currently returning Application Error 
+<h3 align="center">🏆 Attributes & Achievements</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&t=1738403000" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhat-16&theme=dark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Prabhat-16 Trophies" />
 </div>
--->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github-compact&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
