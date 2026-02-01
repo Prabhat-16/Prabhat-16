@@ -27,13 +27,16 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**.
+I’m a **Full Stack Developer** and **MCA student** at **MIT-WPU, Pune**, driven by curiosity and hands-on learning 🚀
 
-💡 Passionate **Full Stack Developer** with a strong foundation in **PHP + MySQL** and always exploring the exciting world of **DevOps & Cloud Technologies**.
+I enjoy building **backend-focused, real-world web applications**, while continuously upgrading my **frontend**, **system design**, and **architecture skills** 💻⚙️
 
-🛠️ I build real-world apps and enjoy sharpening my skills through hands-on projects and continuous learning.
+When I’m not coding features, you’ll find me:
+- ☁️ Deploying applications on the **cloud**
+- ⚙️ Setting up **CI/CD pipelines** and automations
+- 🐧 Exploring **Linux**, **DevOps tools**, and **system internals**
 
-☁️ When I'm not coding, I’m probably experimenting with **cloud deployments**, setting up **CI/CD pipelines**, or diving deep into **Linux tools**.
+I believe in **learning by doing**, shipping real projects, and growing one commit at a time 🌱✨
 
 ## 🧰 Tech Toolbox
 
