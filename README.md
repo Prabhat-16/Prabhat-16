@@ -37,6 +37,7 @@
 <div align="center">
   <table>
     <tr>
+
       <td align="center" style="padding: 0 20px;">
         <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank">
           <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" /><br/>
@@ -64,6 +65,7 @@
           <sub><b>Website</b></sub>
         </a>
       </td>
+
     </tr>
   </table>
 </div>
