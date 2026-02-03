@@ -34,7 +34,7 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,postman,vite,linux&theme=dark&perline=10" /> </div>
 
 ## 🔗 Connect with Me
-<div align="left"> <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" /> </a> <a href="https://x.com/PRABHAT160703" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" /> </a> <a href="mailto:mprabhat1607@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" /> </a> <a href="https://prabhatmishra1607.netlify.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" /> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" /> </a> <a href="https://x.com/PRABHAT160703" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" /> </a> <a href="mailto:mprabhat1607@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" /> </a> <a href="https://prabhatmishra1607.netlify.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" /> </a> </div>
 
 ## 💬 Quote
 > “Talk is Cheap. Show me the Code.” – Linus Torvalds
