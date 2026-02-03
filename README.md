@@ -35,30 +35,41 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <span>
+  <span align="center">
     <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" /><br/>
+      <sub><b>LinkedIn</b></sub>
     </a>
   </span>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
+
+  <span align="center">
     <a href="https://x.com/PRABHAT160703" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" />
+      <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" /><br/>
+      <sub><b>Twitter</b></sub>
     </a>
   </span>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
+
+  <span align="center">
     <a href="mailto:mprabhat1607@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" /><br/>
+      <sub><b>Email</b></sub>
     </a>
   </span>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
+
+  <span align="center">
     <a href="https://prabhatmishra1607.netlify.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" />
+      <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" /><br/>
+      <sub><b>Website</b></sub>
     </a>
   </span>
 </p>
+
 
 
 
