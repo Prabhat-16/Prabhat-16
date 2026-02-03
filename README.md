@@ -12,9 +12,9 @@
 ## 📌 About Me
 - I’m a Full Stack Developer and MCA student at MIT-WPU, Pune, driven by curiosity and hands-on learning 🚀
 - When I’m not coding features, you’ll find me:
-- ☁️ Deploying applications on the cloud
-- ⚙️ Setting up CI/CD pipelines and automations
-- 🐧 Exploring Linux, DevOps tools, and system internals
+  ☁️ Deploying applications on the cloud
+  ⚙️ Setting up CI/CD pipelines and automations
+  🐧 Exploring Linux, DevOps tools, and system internals
 - I believe in learning by doing, shipping real projects, and growing one commit at a time 🌱✨
 
 
