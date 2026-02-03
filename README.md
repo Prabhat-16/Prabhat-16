@@ -36,18 +36,22 @@
 ## 🔗 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" style="margin: 0 18px;" />
   </a>
+
   <a href="https://x.com/PRABHAT160703" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark&perline=1" width="50" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" style="margin: 0 18px;" />
   </a>
-  <a href="mailto:mprabhat1607@gmailil.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=1" width="50" />
+
+  <a href="mailto:mprabhat1607@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" style="margin: 0 18px;" />
   </a>
+
   <a href="https://prabhatmishra1607.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify&theme=dark&perline=1" width="50" />
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" style="margin: 0 18px;" />
   </a>
 </div>
+
 
 ## 💬 Quote
 > “Talk is Cheap. Show me the Code.” – Linus Torvalds
