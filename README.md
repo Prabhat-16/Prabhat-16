@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Prabhat Mishra</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Prabhat Mishra</h1>
 <h3 align="center">Full Stack Developer & DevOps Enthusiast</h3>
 
 <p align="center">
@@ -7,16 +7,20 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m a Full Stack Developer and MCA student at MIT-WPU, Pune, driven by curiosity and hands-on learning 🚀
-- I enjoy building backend-focused, real-world web applications, while continuously upgrading my frontend, system design, and architecture skills 💻⚙️
 - When I’m not coding features, you’ll find me:
 - ☁️ Deploying applications on the cloud
 - ⚙️ Setting up CI/CD pipelines and automations
 - 🐧 Exploring Linux, DevOps tools, and system internals
 - I believe in learning by doing, shipping real projects, and growing one commit at a time 🌱✨
+
+
+## 🧠 My Focus Areas
+- Front-End Development
+- DevOps - Cloud
 
 
 ## 📊 GitHub Stats & Trophies
