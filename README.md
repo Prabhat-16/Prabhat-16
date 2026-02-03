@@ -31,7 +31,7 @@
 
 ## 🛠️ Languages & Tools
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,php,mysql,mongodb,aws,azure,docker,jenkins,linux,git,github,figma,postman,vite&theme=dark&perline=11" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,figma,postman,vite,linux&theme=dark&perline=10" /> </div>
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Prabhat Mishra's LinkedIn"/></a> <a href="https://x.com/PRABHAT160703" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Prabhat Mishra's Twitter"/></a> <a href="mailto:mprabhat1607@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Prabhat Mishra's Email"/></a> <a href="https://prabhatmishra1607.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
