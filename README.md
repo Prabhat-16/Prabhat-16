@@ -36,21 +36,28 @@
 ## 🔗 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" style="margin: 0 18px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/PRABHAT160703" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" style="margin: 0 18px;" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" />
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:mprabhat1607@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" style="margin: 0 18px;" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
   </a>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://prabhatmishra1607.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" style="margin: 0 18px;" />
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" />
   </a>
 </div>
+
 
 
 ## 💬 Quote
