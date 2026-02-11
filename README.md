@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%" height="400px" />
+<img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/>
 
 ## 📌 About Me
 - I’m a Full Stack Developer and MCA student at MIT-WPU, Pune, driven by curiosity and hands-on learning 🚀
