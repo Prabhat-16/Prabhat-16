@@ -25,6 +25,9 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=radical&hide_border=true&cache_seconds=86400" alt="Prabhat-16's GitHub Streak" width="49%" />
+</p>
+<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github_dark&radius=10" alt="Prabhat-16's Activity Graph" />
 </p>
 
