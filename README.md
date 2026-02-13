@@ -23,7 +23,7 @@
 - DevOps - Cloud
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=radical&hide_border=true&cache_seconds=86400" alt="Prabhat-16's GitHub Streak" width="49%" />
 </p>
