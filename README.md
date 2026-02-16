@@ -43,7 +43,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center"> 
+<div align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,postman,vite,linux&theme=dark&perline=10" /> 
 </div>
 
@@ -51,7 +51,7 @@
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
   </a>
