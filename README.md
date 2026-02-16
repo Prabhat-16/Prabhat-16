@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Prabhat-16">
     <img src="https://komarev.com/ghpvc/?username=Prabhat-16&label=Profile%20views&color=00FFFF&style=flat-square" alt="Prabhat-16's profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/>
 
