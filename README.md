@@ -1,13 +1,7 @@
 <!-- 🌊 Waving Capsule Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Hey%20Im%20Prabhat%20Mishra&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,20&text=Hey%20👋%20Im%20Prabhat%20Mishra%20🐧&fontSize=45&fontColor=00ffff&animation=twinkling&fontAlignY=35&textBg=false"/>
 </p>
-
-<h1 align="center">
-  Hey 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> 
-  I'm Prabhat Mishra
-</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
