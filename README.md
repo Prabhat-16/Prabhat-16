@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,postman,vite,linux&theme=dark&perline=10" /> 
