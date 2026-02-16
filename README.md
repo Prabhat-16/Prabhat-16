@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hey%20👋%20I'm%20Prabhat%20Mishra%20🐧&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=30&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
+<img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 </h3>
-
-<img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/>
 
 ---
 
@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
-</p>
+</p> -->
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github_dark&radius=10" />
