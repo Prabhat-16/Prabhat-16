@@ -1,6 +1,6 @@
 <!-- 🌊 Waving Capsule Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=0,12,20&text=Hey%20👋%20Im%20Prabhat%20Mishra%20🐧&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=0,5,10&text=Hey%20👋%20Im%20Prabhat%20Mishra%20🐧&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&textBg=false"/>
 </p>
 
 <h3 align="center">
