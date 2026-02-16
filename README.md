@@ -1,4 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Prabhat Mishra</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Prabhat+Mishra" alt="Typing SVG" />
+  </a>
+</h1>
 <h3 align="center">Full Stack Developer & DevOps Enthusiast</h3>
 
 <p align="center">
@@ -10,6 +14,7 @@
 <img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/>
 
 ## 📌 About Me
+
 - I’m a Full Stack Developer and MCA student at MIT-WPU, Pune, driven by curiosity and hands-on learning 🚀
 - When I’m not coding features, you’ll find me:
   ☁️ Deploying applications on the cloud
@@ -17,13 +22,13 @@
   🐧 Exploring Linux, DevOps tools, and system internals
 - I believe in learning by doing, shipping real projects, and growing one commit at a time 🌱✨
 
-
 ## 🧠 My Focus Areas
+
 - Front-End Development
 - DevOps - Cloud
 
-
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=radical&hide_border=true&cache_seconds=86400" alt="Prabhat-16's GitHub Streak" width="49%" />
 </p>
@@ -32,12 +37,12 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github_dark&radius=10" alt="Prabhat-16's Activity Graph" />
 </p>
 
-
 ## 🛠️ Languages & Tools
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,postman,vite,linux&theme=dark&perline=10" /> </div>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <span>
     <a href="https://www.linkedin.com/in/prabhat-b-mishra/" target="_blank">
@@ -64,10 +69,8 @@
   </span>
 </p>
 
-
-
-
 ## 💬 Quote
+
 > “Talk is Cheap. Show me the Code.” – Linus Torvalds
 
 <!-- <picture>
