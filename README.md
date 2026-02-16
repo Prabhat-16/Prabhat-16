@@ -1,9 +1,7 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Prabhat+Mishra" alt="Typing SVG" />
-  </a>
-</h1>
-<h3 align="center">Full Stack Developer & DevOps Enthusiast</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Prabhat Mishra</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Prabhat-16">
