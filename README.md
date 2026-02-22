@@ -4,11 +4,7 @@
 </p>
 
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Prabhat-16">
-    <img src="https://komarev.com/ghpvc/?username=Prabhat-16&label=Profile%20views&color=00FFFF&style=flat-square" alt="Prabhat-16's profile views" />
-  </a>
-</p>
+<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
 <!-- <img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/> -->
 
 <h3 align="center">
