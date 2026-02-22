@@ -29,14 +29,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
-</p> -->
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=github_dark&radius=10" />
+  <a href="https://github.com/Prabhat-16">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabhat-16&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Prabhat-16's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Prabhat-16's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Prabhat-16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-16&theme=tokyonight&radius=10" alt="Prabhat-16's Activity Graph" />
 </p>
 
 ---
