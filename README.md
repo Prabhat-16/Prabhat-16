@@ -3,8 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hey%20👋%20I'm%20Prabhat%20Mishra%20🐧&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=30&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
-
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 <!-- <img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/> -->
 
 <h3 align="center">
