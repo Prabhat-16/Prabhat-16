@@ -3,7 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hey%20👋%20I'm%20Prabhat%20Mishra%20🐧&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=30&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
-<img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Prabhat-16">
+    <img src="https://komarev.com/ghpvc/?username=Prabhat-16&label=Profile%20views&color=00FFFF&style=flat-square" alt="Prabhat-16's profile views" />
+  </a>
+</p>
+<!-- <img src="assets/Boy2.png" alt="Prabhat Mishra Banner" width="100%"/> -->
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
