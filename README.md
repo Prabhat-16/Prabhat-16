@@ -52,6 +52,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabhat-16&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p> -->
+<p align="left">
+  <a href="https://github.com/Prabhat-16">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabhat-16&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 <div align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,postman,vite,linux&theme=dark&perline=10" /> 
