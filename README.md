@@ -58,7 +58,7 @@
   </a>
 </p>
 
-<div align="center"> 
+<div align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,postman,vite,linux&theme=dark&perline=10" /> 
 </div>
 
