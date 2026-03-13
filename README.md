@@ -30,11 +30,11 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats & Trophies -->
-<!-- <p align="center"> -->
-  <!-- <a href="https://github.com/Prabhat-16">
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Prabhat-16">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabhat-16&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Prabhat-16's GitHub Stats" />
-  </a> -->
+  </a>
   <!-- <img src="https://streak-stats.demolab.com/?user=Prabhat-16&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Prabhat-16's GitHub Streak" width="49%" />
 </p>
 <p align="center">
