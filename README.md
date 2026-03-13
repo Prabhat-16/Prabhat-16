@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats & Trophies
-<p align="left">
+<p align="center">
   <a href="https://github.com/Prabhat-16">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabhat-16&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Prabhat-16's GitHub Stats" />
   </a>
@@ -52,13 +52,13 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabhat-16&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p> -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/Prabhat-16">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabhat-16&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-<div align="left"> 
+<div align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,react,nodejs,mysql,mongodb,docker,aws,azure,jenkins,git,github,postman,vite,linux&theme=dark&perline=10" /> 
 </div>
 
