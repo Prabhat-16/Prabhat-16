@@ -79,7 +79,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://prabhatmishra1607.netlify.app/" target="_blank">
+  <a href="https://prabhat-portfolio16.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" />
   </a>
 </p>
