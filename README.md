@@ -23,7 +23,7 @@ I believe in **learning by building real-world projects** and continuously impro
 
 ---
 
-# 🚀 Featured Projects
+<!-- # 🚀 Featured Projects
 
 ## 🤖 Azure AI Chat Interface
 An AI-powered chatbot interface integrated with Azure OpenAI services featuring a responsive modern UI.
@@ -42,7 +42,7 @@ A complete room booking management system for MIT-WPU with faculty and admin das
 ## ☁️ Cloud Task Tracker
 A cloud-deployed task management application with authentication, dashboards, and task tracking.
 
-**Tech Stack:** React, Express.js, MySQL, Azure App Services
+**Tech Stack:** React, Express.js, MySQL, Azure App Services -->
 
 ---
 
