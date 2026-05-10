@@ -1,4 +1,4 @@
-```md id="ny6t3h"
+
 <!-- 🔥 Custom LinkedIn Style Banner -->
 <p align="center">
   <img src="./assets/New_Banner.png" alt="Prabhat Mishra Banner" width="100%" />
@@ -126,4 +126,4 @@ A cloud-deployed task management application with authentication, dashboards, an
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
-```
+
