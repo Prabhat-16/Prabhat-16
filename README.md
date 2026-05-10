@@ -44,9 +44,9 @@ A cloud-deployed task management application with authentication, dashboards, an
 
 **Tech Stack:** React, Express.js, MySQL, Azure App Services -->
 
----
+<!-- --- -->
 
-# 🧠 Currently Exploring
+<!-- # 🧠 Currently Exploring
 
 - Docker & Containerization
 - CI/CD Pipelines
@@ -54,7 +54,7 @@ A cloud-deployed task management application with authentication, dashboards, an
 - Linux & System Design
 - DevOps Automation
 
----
+--- -->
 
 # 🛠️ Tech Stack
 
