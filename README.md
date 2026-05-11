@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Cloud+%26+AI+Powered+Applications;DevOps+%26+Linux+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prabhat-16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
