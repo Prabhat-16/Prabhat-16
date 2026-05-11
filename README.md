@@ -83,9 +83,9 @@ A cloud-deployed task management application with authentication, dashboards, an
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prabhat-16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" /> -->
   
-  <!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=tokyonight&hide_border=true&border_radius=10" /> -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
