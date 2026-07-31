@@ -58,27 +58,12 @@ A cloud-deployed task management application with authentication, dashboards, an
 
 # 🛠️ Tech Stack
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&theme=dark" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,express&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkins,linux,git,github,postman&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,nodejs,express,php,mysql,mongodb,docker,aws,azure,linux,git,github,postman&theme=dark&perline=9" />
 </p>
 
 ---
+
 
 # 📊 GitHub Stats
 
