@@ -18,6 +18,7 @@ I enjoy working across the entire software development lifecycle—from designin
 
 My core expertise includes **React, PHP, Node.js, MySQL, MongoDB, Docker, AWS, Azure, and Linux**. I'm continuously learning new technologies and enjoy building projects that create real-world impact.
 
+
 ---
 
 <p align="left">
@@ -35,7 +36,7 @@ My core expertise includes **React, PHP, Node.js, MySQL, MongoDB, Docker, AWS, A
 
 # 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
