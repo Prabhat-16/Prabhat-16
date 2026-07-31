@@ -55,11 +55,10 @@ A cloud-deployed task management application with authentication, dashboards, an
 - DevOps Automation
 
 --- -->
-
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,nodejs,express,php,mysql,mongodb,docker,aws,azure,linux,git,github,postman&theme=dark&perline=9" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,nodejs,express,php,mysql,mongodb,docker,aws,azure,linux,git,github,postman&theme=dark&perline=8" />
 </p>
 
 ---
