@@ -22,6 +22,12 @@ My core expertise includes **React, PHP, Node.js, MySQL, MongoDB, Docker, AWS, A
 
 ---
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pune,%20India-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge" />
+</p>
+
 # 🛠️ Tech Stack
 
 <p align="left">
