@@ -35,7 +35,7 @@ My core expertise includes **React, PHP, Node.js, MySQL, MongoDB, Docker, AWS, A
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-16&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
